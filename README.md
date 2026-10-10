@@ -98,4 +98,4 @@ Watch our 15-minute video demonstration explaining the paper, our novel contribu
 
 * **[Pratyush Chauhan]** - Base Paper + +DINOv2 Contribution 
 * **[Aditya Jain]** -LLM Contribution Lead + Pipeline Lead
-* **[Pratyush Chauhan]** - Experiments + Visualization + Documentation Lead
+* **[Bhaskar Sharma]** - Experiments + Visualization + Documentation Lead
